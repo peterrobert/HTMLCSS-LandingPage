@@ -45,7 +45,7 @@ align-items: center;
 
 .btn{
     cursor: pointer;
-    border: none;
+    border: 0;
     padding-top: 6px;
     padding-bottom: 6px;
     padding-left: 12px;
